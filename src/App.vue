@@ -8,6 +8,9 @@
 		},
 		onHide: function() {
 			console.log('App Hide')
+		},
+		globalData:{
+			base:"www.360.com"
 		}
 	}
 </script>
